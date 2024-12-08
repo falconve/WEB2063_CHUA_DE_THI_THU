@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "nguyen van a",
+      "age": "200",
+      "email": "nguyenvana@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "nguyen van bbbb",
+      "age": "22",
+      "email": "nguyenvanb@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "db74",
+      "name": "test1",
+      "age": "10",
+      "email": "hanyou33@gmail.com"
+    }
+  ]
+}
